@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Practical1-JulianusKath",
+"productVersion": "2.1.0",
+"dataUrl": "Practical1-JK.data.unityweb",
+"wasmCodeUrl": "Practical1-JK.wasm.code.unityweb",
+"wasmFrameworkUrl": "Practical1-JK.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
